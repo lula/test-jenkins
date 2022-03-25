@@ -5,6 +5,7 @@ pipeline {
             steps {
                 sh 'node --version'
                 echo 'oooo'
+                echo 'oooo'
             }
         }
     }
